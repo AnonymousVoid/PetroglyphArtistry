@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "petroglyph_artistry:block/petroglph_stone_block"
+  }
+}
